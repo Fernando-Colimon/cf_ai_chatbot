@@ -1,4 +1,4 @@
-const WORKER_URL = "http://localhost:8787";
+const WORKER_URL = "https://cf-ai-chatbot.colimonfernando10.workers.dev";
 
 // Generate a session ID for this browser tab
 const sessionId = "sess_" + Math.random().toString(36).slice(2, 10);
